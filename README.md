@@ -1,1 +1,1 @@
-![Matriz escalar](https://latex.codecogs.com/png.image?\dpi{300}&space;\begin{bmatrix}e&space;&&space;0&space;\\0&space;&&space;e&space;\\\end{bmatrix})
+![Matriz escalar](https://latex.codecogs.com/png.image?%5Cdpi%7B300%7D%20%5Cbegin%7Bbmatrix%7De%20&%200%20%5C%5C0%20&%20e%20%5C%5C%5Cend%7Bbmatrix%7D)
