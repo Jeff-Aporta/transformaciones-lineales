@@ -1,3 +1,6 @@
+
+# [Video de Youtube](https://youtu.be/zbqvr9NFagY)
+
 # Transformaciones lineales
 
 ## Matriz de escalamiento
@@ -17,4 +20,4 @@
 ![Matriz escalar](https://latex.codecogs.com/png.image?%5Cdpi%7B300%7D%20(x,y)&plus;(T_x&plus;T_y))
 
 # Forma general
-![Matriz escalar](https://latex.codecogs.com/png.image?%5Cdpi%7B300%7D%20%5Cbegin%7Bbmatrix%7Da%20&%20b%20%5C%5Cc%20&%20d%20%5C%5C%5Cend%7Bbmatrix%7D(x,y)&plus;(T_x&plus;T_y))
+![Matriz escalar](https://latex.codecogs.com/png.image?%5Cdpi%7B300%7D%20(x,y)%5Cbegin%7Bbmatrix%7Da%20&%20b%20%5C%5Cc%20&%20d%20%5C%5C%5Cend%7Bbmatrix%7D&plus;(T_x&plus;T_y))
